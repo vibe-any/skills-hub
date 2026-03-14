@@ -1,0 +1,14 @@
+{
+  "id": "6899baee-0b0a-4e47-aa46-f0ada0982dbb",
+  "name": "repomix unmixer",
+  "description": "repomix-unmixer 是一个用于从 repomix 打包的仓库文件中提取文件并恢复原始目录结构的工具，支持 XML、Markdown 和 JSON 格式，主要用途包括解混合 repomix 输出文件、提取打包仓库、恢复文件结构或逆向 repomix 打包过程，其核心依赖是内置的 `unmix_repomix.py` 脚本，通过解析文件格式、提取内容、重建目录结构并写入文件来完成操作。",
+  "category": "coding",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-27T00:14:11.78089+00:00",
+  "updated_at": "2025-10-27T00:22:40.714867+00:00",
+  "original_author": "daymade",
+  "original_link": "https://github.com/daymade/claude-code-skills/tree/main/repomix-unmixer"
+}
