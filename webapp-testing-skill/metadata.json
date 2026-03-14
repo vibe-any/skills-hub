@@ -1,0 +1,14 @@
+{
+  "id": "48ab9353-790b-4525-b522-bfb64051185e",
+  "name": "WebApp Testing Skill",
+  "description": "webapp-testing 是一个用于与本地 Web 应用程序交互和测试的工具包，它基于 Playwright，支持验证前端功能、调试 UI 行为、捕获浏览器截图和查看浏览器日志；其主要用途是通过编写原生 Python Playwright 脚本来测试静态或动态的本地 Web 应用，并提供了 `scripts/with_server.py` 等辅助脚本来管理服务器生命周期（支持多服务器），帮助用户根据应用是否为静态或服务器是否运行等情况选择合适的测试方法。",
+  "category": "coding",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-25T06:41:30.727866+00:00",
+  "updated_at": "2025-10-25T14:45:02.082573+00:00",
+  "original_author": null,
+  "original_link": null
+}
