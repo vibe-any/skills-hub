@@ -1,0 +1,14 @@
+{
+  "id": "c55e6a82-4a28-46f1-aeac-734c6c2fd18c",
+  "name": "cloudflare troubleshooting",
+  "description": "cloudflare-troubleshooting 是一个通过 API 驱动的证据收集来调查和解决 Cloudflare 配置问题的 Skill，主要用于排查 ERR_TOO_MANY_REDIRECTS、SSL 错误、DNS 问题等 Cloudflare 相关故障，其核心原则是基于证据而非假设进行系统性调查，主要依赖 Cloudflare API（需用户提供域名、账户邮箱和 Global API Key 或 API Token）来检查实际配置状态。",
+  "category": "productivity",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-27T00:10:09.127163+00:00",
+  "updated_at": "2025-10-27T00:10:25.341959+00:00",
+  "original_author": "daymade",
+  "original_link": "https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting"
+}
