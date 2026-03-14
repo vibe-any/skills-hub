@@ -1,0 +1,14 @@
+{
+  "id": "f4ea0a80-d526-4bd7-b13a-04aa7e65eab6",
+  "name": "ai partner chat",
+  "description": "AI Partner Chat是Claude Skills项目，通过双画像和个人笔记，提供个性化、上下文感知、能记住用户偏好的AI对话伙伴。\n\n1、通过用户画像、AI画像和向量化个人笔记，项目使AI成为个性化对话伙伴，能记住并引用你的想法与偏好，提供上下文感知的连贯交流。\n\n2、AI能智能索引并向量化Markdown笔记，根据对话内容检索相关历史，并以自然方式引用你的过往想法和知识，而非机械地报告。\n基于用户和AI画像及个人笔记，AI生成高度个性化、上下文连贯的回应，提供持续性的对话体验，每次交流都像朋友般了解你。\n\n3、支持AI自动配置用户和AI画像及笔记向量化，或手动定制。用户数据与技能包分离存储，便于备份、迁移和管理。\n\n4、具备AI Agent智能分块技术，动态适应笔记格式；AI自然引用过往信息，对话流畅；所有用户数据独立存储，易于维护。",
+  "category": "productivity",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2025-11-11T06:07:24.183097+00:00",
+  "updated_at": "2025-11-12T02:14:43.491256+00:00",
+  "original_author": "Eze",
+  "original_link": "https://github.com/eze-is/ai-partner-chat"
+}
