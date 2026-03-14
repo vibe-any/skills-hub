@@ -1,0 +1,14 @@
+{
+  "id": "a016f42d-773e-4333-8414-af7aa3b00e2b",
+  "name": "teams channel post writer",
+  "description": "teams-channel-post-writer 是一个用于创建教育性 Teams 频道帖子的 Skill，主要功能是为内部知识共享提供关于 Claude Code 功能、工具和最佳实践的内容。它适用于编写帖子、公告或文档，以教导同事有效使用 Claude Code、宣布新功能、分享生产力技巧或记录经验教训。该 Skill 提供模板、写作指南和结构化方法，强调具体示例、底层原理以及与上下文工程等最佳实践的联系。其主要依赖包括官方文档、变更日志、权威来源链接以及实际使用案例，通过系统化的工作流程（包括主题研究、内容规划和结构化写作）来确保内容的一致性和可操作性。",
+  "category": "coding",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-27T00:15:17.858617+00:00",
+  "updated_at": "2025-10-27T00:21:53.928499+00:00",
+  "original_author": "daymade",
+  "original_link": "https://github.com/daymade/claude-code-skills/tree/main/teams-channel-post-writer"
+}
