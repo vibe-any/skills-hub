@@ -1,0 +1,14 @@
+{
+  "id": "70c5af0a-344e-4546-b005-c128021912d0",
+  "name": "excalidraw presentation generator",
+  "description": "The Excalidraw Presentation Generator Skill automatically creates structured, information-dense Excalidraw presentations for tech talks, teaching materials, and visualizing flows or architectures. It emphasizes consistent color schemes, font hierarchy, logical layouts with arrows, and organizes content from introduction to concepts, practical examples, and summary. Features like comparison cards and flowcharts enhance engagement and readability. It supports customization of duration, audience, and key points, outputs standardized Excalidraw JSON, suits 5–15 minute presentations, avoids information overload, and ensures professional clarity.\n\nExcalidraw 演示文稿生成器 Skill 能自动创建结构化、信息密集的 Excalidraw 演示文稿，适用于技术分享、教学材料、流程或架构图可视化。它强调统一配色、分层字体、合理布局与箭头引导，内容组织遵循“开场-概念-实战-总结”，并通过对比卡片、流程图等提升趣味和可读性。支持自定义时长、受众和核心点，输出标准化 Excalidraw JSON，适合 5-15 分钟讲解，避免信息过载，确保演示专业清晰。  ",
+  "category": "writing",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2025-11-11T05:48:47.776469+00:00",
+  "updated_at": "2025-11-12T02:14:46.066856+00:00",
+  "original_author": "Brad",
+  "original_link": null
+}
