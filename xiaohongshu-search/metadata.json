@@ -1,0 +1,14 @@
+{
+  "id": "05d74dbe-534c-4cda-abf0-8c0e814799fd",
+  "name": "xiaohongshu-search",
+  "description": "xiaohongshu-search 通过浏览器自动化实现对小红书笔记的关键词搜索、按时间/热度筛选、逐条打开笔记并提取真实分享链接，最终整理成 Markdown 表格并保存到本地。触发条件为用户说“搜索小红书”、“小红书热帖”、“抓取小红书”、“小红书笔记”等。核心依赖为 Chrome 浏览器、Chrome DevTools MCP 提供的自动化能力（如 navigate_page、evaluate_script、take_snapshot、take_screenshot、list_network_requests、get_network_request 等），以及文件读写工具用于保存结果；可选工具 WebSearch 作为降级方案、Shell 进行系统操作。执行前需要完成环境检查：浏览器可用性、已登录小红书（会尝试从本地缓存恢复 Cookies，存放在输出目录所在的 .xhs-cookies.json，若 7 天内未过期则直接恢复，若已过期则手动登录并轮询至成功，最长 120 秒）、以及输出目录可写。输入参数包括 keyword（必填）、time_filter、sort、output_path（必填）及 max_count，输出为本地 Markdown 文件。若环境不支持 Chrome DevTools MCP，将无法执行，需先安装并配置相应服务。",
+  "category": "data",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2026-03-04T11:58:53.300698+00:00",
+  "updated_at": "2026-03-04T12:03:29.01629+00:00",
+  "original_author": "PlayWithAI",
+  "original_link": null
+}
