@@ -1,0 +1,14 @@
+{
+  "id": "345c382c-ed3c-4b4a-b465-d8793584be17",
+  "name": "Canvas Design Skill",
+  "description": "canvas-design 是一个用于创建视觉艺术的 Skill，其功能是根据用户输入生成原创的设计哲学（如艺术运动宣言），并将其视觉化呈现为 .png 或 .pdf 格式的静态作品（如海报、设计图），用途是满足用户对海报、艺术作品等静态视觉设计的创作需求，主要依赖对形式、空间、色彩、构图等视觉元素的哲学化表达，强调原创性以避免版权问题，输出仅限 .md、.pdf 和 .png 文件。",
+  "category": "picture",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2025-10-25T05:36:28.072162+00:00",
+  "updated_at": "2025-10-25T11:57:24.595131+00:00",
+  "original_author": null,
+  "original_link": null
+}
