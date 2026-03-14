@@ -1,0 +1,14 @@
+{
+  "id": "56f96865-a099-4538-8df5-9f749f3c186b",
+  "name": "docx_parser",
+  "description": "该 Skill 提供了全面的 .docx 文档创建、编辑和分析功能，支持修订跟踪、评论、格式保留和文本提取，主要用于处理专业文档（如法律、学术、商业或政府文件）的新建、修改、内容分析、修订处理和评论添加等任务；其主要依赖包括 pandoc（用于文本提取和格式转换）、Python 脚本（用于原始 XML 访问和文档解包）以及 OOXML 格式的底层处理能力。",
+  "category": "coding",
+  "status": "rejected",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-25T08:55:50.111443+00:00",
+  "updated_at": "2025-10-25T11:56:38.937574+00:00",
+  "original_author": null,
+  "original_link": null
+}
