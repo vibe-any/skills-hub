@@ -1,0 +1,14 @@
+{
+  "id": "ed03419e-bfda-4e56-9393-44b8e2a6ed57",
+  "name": "llm icon finder",
+  "description": "llm-icon-finder 是一个用于查找和访问 AI/LLM 模型品牌图标的 Skill，主要依赖 lobe-icons 库，支持用户获取 Claude、GPT、Gemini 等 AI 模型、提供商及应用的图标 URL，并提供 SVG、PNG、WEBP 格式及 light、dark、color 主题变体，通过构建 CDN URL 模式实现图标访问，同时支持下载和在线预览功能。",
+  "category": "writing",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2025-10-27T00:19:07.966679+00:00",
+  "updated_at": "2025-10-27T00:32:23.686454+00:00",
+  "original_author": "daymade",
+  "original_link": "https://github.com/daymade/claude-code-skills/tree/main/llm-icon-finder"
+}
