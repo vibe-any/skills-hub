@@ -1,0 +1,14 @@
+{
+  "id": "86cb1110-09b4-486c-9385-e74059ab94c5",
+  "name": "Trump & Elon twitter",
+  "description": "该 Skill 的功能是“自动每5分钟抓取特朗普与埃隆·马斯克的 Twitter 消息，基于获取的信息进行推理，提炼其对金融、AI 投资与创业方向的潜在影响，并将分析结果以消息形式发给用户”。用途在于实现对科技与金融领域领袖言论的自动化监测、情势解读与投资/创业决策提示的即时获取。主要依赖包括：Twitter 数据获取能力（API/授权）、定时调度（5分钟轮询）以实现定期更新、自然语言处理与因果推理能力用于提取影响要点与推断、以及消息推送/通知系统将结果传达给用户。",
+  "category": "research",
+  "status": "pending",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2026-02-04T09:51:31.009466+00:00",
+  "updated_at": "2026-02-04T09:51:46.544591+00:00",
+  "original_author": null,
+  "original_link": null
+}
