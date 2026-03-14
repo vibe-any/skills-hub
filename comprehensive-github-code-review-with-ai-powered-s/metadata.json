@@ -1,0 +1,14 @@
+{
+  "id": "55798aeb-2ebd-4054-a583-b21c9494e5d1",
+  "name": "Comprehensive GitHub code review with AI-powered swarm coordination",
+  "description": "该 Skill 是一个基于 AI 群体协调的 GitHub 代码审查工具，通过部署专业化审查代理对 PR 进行全面智能审查，涵盖安全、性能、架构、风格和可访问性等多维度分析，支持自动化 PR 管理、智能评论生成和质量门控强制执行，主要依赖 github-cli、ruv-swarm 和 claude-flow 组件实现多代理审查系统和基于 PR 的群体管理功能。",
+  "category": "coding",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-26T04:15:31.031853+00:00",
+  "updated_at": "2025-10-27T00:26:59.599291+00:00",
+  "original_author": "ruvnet",
+  "original_link": "https://github.com/ruvnet/claude-flow/blob/main/.claude/skills/github-code-review/SKILL.md"
+}
