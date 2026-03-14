@@ -1,0 +1,14 @@
+{
+  "id": "3a8cad5a-aa70-4f8c-b53c-4aa62754b550",
+  "name": "Enhanced Skill Creator",
+  "description": "Claude Skill 是模块化能力包，通过三级加载机制（元数据→指令→资源）高效扩展 Claude 功能。创建流程包含 7 步：理解需求、规划资源、初始化目录、编写 SKILL.md、添加资源、验证打包、迭代改进。核心要素包括：精准的 description 触发条件、精简的 SKILL.md（<5k tokens）、合理的资源组织（scripts/、references/、assets/）、具体使用示例。关键原则：使用祈使句而非第二人称、保持信息渐进式披露、脚本独立可执行、避免内容重复。遵循规范可创建专业、高效、易维护的 Skill。\n\nClaude Skills are modular capability packages that extend Claude's functionality through a three-tier loading mechanism (metadata→instructions→resources). The 7-step creation process covers: understanding requirements, planning resources, initializing directory, writing SKILL.md, adding resources, validation & packaging, and iteration. Key elements include: precise description for triggering, concise SKILL.md (<5k tokens), organized resources (scripts/, references/, assets/), and concrete examples. Core principles: use imperative voice instead of second person, progressive information disclosure, independent executable scripts, and avoid content duplication. Following these guidelines enables creating professional, efficient, and maintainable Skills.",
+  "category": "automation",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2025-10-28T06:47:03.209653+00:00",
+  "updated_at": "2025-10-28T12:23:23.050804+00:00",
+  "original_author": "PlayWithAI",
+  "original_link": null
+}
