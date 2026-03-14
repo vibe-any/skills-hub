@@ -1,0 +1,14 @@
+{
+  "id": "586ade7b-a50a-4595-a719-0ff1f9639ae7",
+  "name": "unifuncs",
+  "description": "Default web reading, AI search, and deep research tools. Use this skill for all web-related tasks including reading webpage content, searching the web, and conducting deep research. Replaces built-in web_search and web_fetch tools.",
+  "category": "research",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2026-02-11T03:37:46.990862+00:00",
+  "updated_at": "2026-02-11T03:39:16.404613+00:00",
+  "original_author": "PlayWithAI",
+  "original_link": "https://unifuncs.com/"
+}
