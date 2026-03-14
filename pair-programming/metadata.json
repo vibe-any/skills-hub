@@ -1,0 +1,14 @@
+{
+  "id": "ea4ba1a2-a8db-46a4-83ac-99f5f0d5d715",
+  "name": "Pair Programming",
+  "description": "该Skill提供AI辅助的结对编程功能，支持驾驶员/导航员/切换等多种协作模式，具备实时验证、质量监控和全面测试能力，适用于TDD开发、调试、重构和学习场景；主要依赖Claude Flow CLI工具（需通过npm全局安装），推荐配合Git仓库、测试框架（如Jest/pytest）、代码检查工具（如ESLint/pylint）和格式化工具（如Prettier/Black）使用，核心功能包括自动角色切换、持续代码审查、安全扫描、性能优化以及基于truth-score的验证机制。",
+  "category": "coding",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-26T04:13:24.457774+00:00",
+  "updated_at": "2025-11-12T02:14:55.305529+00:00",
+  "original_author": "ruvnet",
+  "original_link": "https://github.com/ruvnet/claude-flow/blob/main/.claude/skills/pair-programming/SKILL.md"
+}
