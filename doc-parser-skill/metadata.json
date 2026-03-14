@@ -1,0 +1,14 @@
+{
+  "id": "db8675e4-00e9-4d5e-9f51-05639a617b7c",
+  "name": "Doc Parser Skill",
+  "description": "该 Skill 提供了全面的 .docx 文档创建、编辑和分析功能，支持修订跟踪、评论、格式保留和文本提取，适用于处理专业文档（如法律、学术、商业或政府文档）的新建、修改、修订跟踪或评论添加等任务；其主要依赖包括用于文本提取和结构保留的 pandoc 工具，以及用于访问评论、复杂格式、文档结构、嵌入媒体和元数据等原始 XML 内容的 Python 脚本（如 ooxml/scripts/unpack.py）。",
+  "category": "document",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-25T05:03:39.165333+00:00",
+  "updated_at": "2025-11-12T02:15:04.947181+00:00",
+  "original_author": null,
+  "original_link": null
+}
