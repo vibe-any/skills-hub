@@ -1,0 +1,14 @@
+{
+  "id": "1bc200e7-38db-4804-8f65-78a511e4c89a",
+  "name": "Skill Creator",
+  "description": "Skill Creator 是一个指导用户为 Claude 打造「技能包」的元技能。它通过标准化模板与脚本，帮助用户把特定领域的工作流程、工具脚本、参考资料或输出模板封装成可复用的 skill（含 SKILL.md + 可选 scripts/references/assets），让 Claude 在需要时自动加载并化身该领域的“专家”。主要依赖项目内置的 init_skill.py、package_skill.py 等脚本完成技能初始化、验证与打包。",
+  "category": "automation",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-25T06:39:16.772069+00:00",
+  "updated_at": "2025-10-25T14:45:06.753342+00:00",
+  "original_author": null,
+  "original_link": null
+}
