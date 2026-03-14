@@ -1,0 +1,14 @@
+{
+  "id": "407d25f2-a4b1-462c-85a1-df8450dda03d",
+  "name": "PPT Parser Skill",
+  "description": "pptx Skill 提供了演示文稿的创建、编辑和分析功能，支持处理 .pptx 文件，包括新建演示文稿、修改内容、调整布局、添加注释或演讲者备注等任务；其功能主要通过文本提取（使用 markitdown 转换为 markdown）和原始 XML 访问（通过 unpack.py 解包文件）实现，依赖的关键文件结构包括 presentation.xml、slide{N}.xml、notesSlide{N}.xml 等，用于处理元数据、幻灯片内容、演讲者备注、注释、布局模板、主题样式及媒体资源。",
+  "category": "document",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-25T05:11:51.603381+00:00",
+  "updated_at": "2025-10-27T00:33:15.581197+00:00",
+  "original_author": null,
+  "original_link": null
+}
