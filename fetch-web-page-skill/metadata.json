@@ -1,0 +1,14 @@
+{
+  "id": "6e03fdb0-9e93-4418-bbf6-06e244656929",
+  "name": "Fetch Web Page Skill",
+  "description": "fetch-web-page-skill 是一个用于从网页获取并提取文本内容的技能，主要功能是帮助用户在对话中直接访问和分析在线文章、文档或网页信息，无需离开当前环境；其用途包括阅读和分析文章、提取文档信息、审查新闻、访问学术内容、分析竞争对手网站等；该技能依赖网页URL输入，能自动处理各种内容类型并去除导航菜单、广告等干扰元素，提供结构化的标题和正文输出。",
+  "category": "productivity",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-25T14:26:26.621707+00:00",
+  "updated_at": "2025-10-27T00:32:37.226638+00:00",
+  "original_author": "PlayWithAI",
+  "original_link": "https://playwithai.fun"
+}
