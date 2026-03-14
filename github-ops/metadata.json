@@ -1,0 +1,14 @@
+{
+  "id": "7dc32e0b-29a5-4c9a-aac6-cc102fe6bcf9",
+  "name": "github ops",
+  "description": "该 Skill 提供了全面的 GitHub 操作功能，主要依赖 `gh` CLI 工具和 GitHub REST/GraphQL API，用于处理拉取请求、问题、仓库、工作流及 API 交互等任务，包括创建/查看/合并 PR、管理问题、查询 API 端点、处理 GitHub Actions 工作流，并支持企业或公共 GitHub 环境中的自动化操作。",
+  "category": "coding",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-27T00:11:07.52398+00:00",
+  "updated_at": "2025-10-27T00:17:31.369245+00:00",
+  "original_author": "daymade",
+  "original_link": "https://github.com/daymade/claude-code-skills/tree/main/github-ops"
+}
