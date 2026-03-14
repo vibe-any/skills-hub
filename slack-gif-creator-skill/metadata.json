@@ -1,0 +1,14 @@
+{
+  "id": "063c5113-2741-4dcb-914a-b568f95defe8",
+  "name": "Slack Gif Creator Skill",
+  "description": "Slack GIF Creator 是一个用于创建符合 Slack 规范的动画 GIF 的工具包，主要功能是提供针对 Slack 消息 GIF（最大2MB，480x480，15-20fps）和表情符号 GIF（严格64KB，128x128，10-12fps）的尺寸约束验证器、可组合的动画基元（如摇晃、弹跳、移动等）以及辅助实用工具，其核心依赖是 `core.gif_builder.GIFBuilder`，允许用户灵活应用这些工具来实现从描述生成 Slack 动画或表情动画的创意需求。",
+  "category": "productivity",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2025-10-25T06:40:34.634643+00:00",
+  "updated_at": "2025-10-25T11:57:09.043381+00:00",
+  "original_author": null,
+  "original_link": null
+}
