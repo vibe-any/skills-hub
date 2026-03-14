@@ -1,0 +1,14 @@
+{
+  "id": "2f44eeb7-4eb2-48ea-bb40-03243d2d2e57",
+  "name": "markdown tools",
+  "description": "markdown-tools 是一个将多种文档格式（如 PDF、Word、PowerPoint、Confluence 导出文件）转换为 Markdown 的工具，特别支持 Windows/WSL 路径处理，适用于跨环境文档转换和知识库集成场景，主要依赖 markitdown 实用工具进行转换，并提供路径转换脚本辅助处理 Windows 与 WSL 路径格式差异。",
+  "category": "writing",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-27T00:12:24.640194+00:00",
+  "updated_at": "2025-10-27T00:24:10.800158+00:00",
+  "original_author": "daymade",
+  "original_link": "https://github.com/daymade/claude-code-skills/tree/main/markdown-tools"
+}
