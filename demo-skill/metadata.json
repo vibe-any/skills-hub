@@ -1,0 +1,14 @@
+{
+  "id": "8f617b0a-6a5b-4c98-9b61-a396e8a6d01c",
+  "name": "Demo Skill",
+  "description": "该 demo skill 是一个示例技能，主要用于演示或测试特定功能，其用途包括展示技能的基本操作流程、验证系统兼容性或作为开发参考模板，主要依赖于基础运行环境和核心组件库。",
+  "category": "marketing",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": false,
+  "created_at": "2025-10-25T03:45:45.203533+00:00",
+  "updated_at": "2025-10-25T05:31:57.872265+00:00",
+  "original_author": null,
+  "original_link": null
+}
