@@ -1,0 +1,1 @@
+我想创建一个skills，可以自动每5分钟抓取trump和elon musk的twitter消息，并推理其中对金融，AI投资，创业方向的影响信息，并发消息给我。
