@@ -1,0 +1,14 @@
+{
+  "id": "5d500dbf-a538-4706-8b27-74c661ae99e6",
+  "name": "PDF Parser Skill",
+  "description": "该Skill是一个全面的PDF处理工具包，功能包括提取文本和表格、创建新PDF、合并/拆分文档以及处理表单，适用于Claude需要填写PDF表单或大规模程序化处理、生成或分析PDF文档的场景；主要依赖Python库如pypdf（用于基本操作如合并、拆分、旋转页面和提取元数据）和pdfplumber（用于文本和表格提取）。",
+  "category": "document",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2025-10-25T05:02:00.346153+00:00",
+  "updated_at": "2025-10-27T00:33:10.351375+00:00",
+  "original_author": null,
+  "original_link": null
+}
