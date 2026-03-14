@@ -1,0 +1,14 @@
+{
+  "id": "6d567634-0866-489c-be9a-949e4db9ea01",
+  "name": "one-click dev and deploy website",
+  "description": "Dev & Deploy is an automation-first skill that helps AI agents and developers quickly build and publish web apps to Cloudflare Pages with minimal manual steps: it interprets deployment intent, validates and repairs environment prerequisites, supports custom or existing project sources, optionally initializes Git and creates/pushes a GitHub repository, performs deployment with Wrangler (including token-based auth for non-interactive environments), and finishes with retry-based accessibility checks while reporting clear outputs such as local path, live URL, and any remaining manual actions.",
+  "category": "coding",
+  "status": "approved",
+  "downloads": 0,
+  "rating": 0,
+  "featured": true,
+  "created_at": "2026-03-11T12:53:14.041468+00:00",
+  "updated_at": "2026-03-11T12:53:55.795878+00:00",
+  "original_author": "PlayWithAI",
+  "original_link": null
+}
